@@ -1,0 +1,132 @@
+{
+  "lastModifiedDate": "July 2995",
+  "index": {
+    "keyResult1": {
+      "key": "obj1",
+      "TargetName": "objective1",
+      "lastModifiedDate": "July 2996"
+      },
+      "keyResult2": {
+      "key": "obj2",
+      "TargetName": "objective2",
+      "lastModifiedDate": "July 2997"
+      },
+      "keyResult3": {
+        "key": "obj3",
+        "TargetName": "objective3",
+      "lastModifiedDate": "July 2998"
+        },
+        "keyResult4": {
+        "key": "obj4",
+        "TargetName": "objective4",
+      "lastModifiedDate": "July 2999"
+        }
+  },
+  "objective1": {
+    "keyResult1": {
+      "key": "obj1kr1",
+      "TargetName": "keyResult1",
+      "mode": 2,
+      "keyMode": 1,
+      "money": 0,
+      "indicatorRange": [50,97],
+      "lastModifiedDate": "July 3000"
+      },
+      "keyResult2": {
+      "key": "obj1kr2",
+      "TargetName": "keyResult2",
+      "mode": 3,
+      "keyMode": 1,
+      "money": 1,
+      "indicatorRange": [50,97],
+      "lastModifiedDate": "July 3001"
+      },
+      "keyResult3": {
+        "key": "obj1kr3",
+        "TargetName": "keyResult3",
+        "mode": 3,
+        "keyMode": 1,
+        "money": 1,
+        "indicatorRange": [50,97],
+      "lastModifiedDate": "July 3002"
+        }
+  },
+  "objective2": {
+    "keyResult1": {
+      "key": "obj2kr1",
+      "TargetName": "keyResult1",
+      "mode": 2,
+      "keyMode": 2,
+      "money": 0,
+      "indicatorRange": [50,97],
+      "lastModifiedDate": "July 3003"
+      },
+      "keyResult2": {
+      "key": "obj2kr2",
+      "TargetName": "keyResult2",
+      "mode": 1,
+      "keyMode": 1,
+      "money": 0,
+      "indicatorRange": [50,97],
+      "lastModifiedDate": "July 3004"
+      },
+      "keyResult3": {
+        "key": "obj2kr3",
+        "TargetName": "keyResult3",
+        "mode": 2,
+        "keyMode": 1,
+        "money": 0,
+        "indicatorRange": [50,97],
+      "lastModifiedDate": "July 3005"
+        }
+  },
+  "objective3": {
+    "keyResult1": {
+      "key": "obj3kr1",
+      "TargetName": "keyResult1",
+      "mode": 1,
+      "keyMode": 1,
+      "money": 0,
+      "indicatorRange": [50,97],
+      "lastModifiedDate": "July 3006"
+      },
+      "keyResult2": {
+      "key": "obj3kr2",
+      "TargetName": "keyResult2",
+      "mode": 2,
+      "keyMode": 1,
+      "money": 0,
+      "indicatorRange": [50,97],
+      "lastModifiedDate": "July 3007"
+      },
+      "keyResult3": {
+        "key": "obj3kr3",
+        "TargetName": "keyResult3",
+        "mode": 2,
+        "keyMode": 1,
+        "money": 0,
+        "indicatorRange": [50,97],
+      "lastModifiedDate": "July 3008"
+        }
+  },
+  "objective4": {
+    "keyResult1": {
+      "key": "obj4kr1",
+      "TargetName": "keyResult1",
+      "mode": 1,
+      "keyMode": 1,
+      "money": 0,
+      "indicatorRange": [50,97],
+      "lastModifiedDate": "July 3009"
+      },
+      "keyResult2": {
+      "key": "obj4kr2",
+      "TargetName": "keyResult2",
+      "mode": 2,
+      "keyMode": 1,
+      "money": 0,
+      "indicatorRange": [50,97],
+      "lastModifiedDate": "July 3010"
+      }
+  }
+}
